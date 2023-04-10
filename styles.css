@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap" rel="stylesheet'); 
+
+html, body, [class*="css"] {
+    font-family: 'Lato', sans-serif; 
+}
+
+/* Text Pre Processing */
+h1{
+    color: #B43C4E;
+    text-align: center;
+    font-size: 40px;
+
+} 
+
+
+#MainMenu {visibility: hidden;}
+
+
+[id *= "ldavis"]{
+    display: none;
+}
